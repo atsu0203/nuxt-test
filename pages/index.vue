@@ -11,6 +11,7 @@
   <td><NuxtLink to=/products/1/editProduct>編集</NuxtLink></td>
   <td><NuxtLink to=/products/1/editProduct>編集</NuxtLink></td>
    <td><NuxtLink to=/products/1/editProduct>編集</NuxtLink></td>
+      <td><NuxtLink to=/products/1/editProduct>編集</NuxtLink></td>
 
   </tr>
   </table>
